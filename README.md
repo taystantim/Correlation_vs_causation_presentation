@@ -5,7 +5,7 @@ This repository contains materials from a guest lecture I delivered for the Depa
 
 ## Overview 
 
-This lecture explores how seemingly strong patterns in data can be misleading—even when they appear statistically valid.
+This lecture explores how seemingly strong patterns in data can be misleading even when they appear statistically valid.
 
 Through real-world examples and intuitive explanations, it highlights common pitfalls in data analysis and demonstrates how statisticians approach these challenges to produce more reliable insights.
 
