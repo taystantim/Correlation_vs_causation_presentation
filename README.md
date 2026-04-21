@@ -9,19 +9,19 @@ This lecture explores how seemingly strong patterns in data can be misleading ev
 
 Through real-world examples and intuitive explanations, it highlights common pitfalls in data analysis and demonstrates how statisticians approach these challenges to produce more reliable insights.
 
-1. Spurious Correlations
+### Spurious Correlations:
 When variables appear related but have no causal connection
 
-2. Simpson's Paradox
+### Simpson's Paradox:
 When a trend within groups reverses or disappears when the data is combined
 
-3. Causal Myths in Big Data
+### Causal Myths in Big Data:
 Common misconceptions such as “more data means more truth” and the belief that machine learning automatically uncovers causation
 
-4. Observational Data traps
+### Observational Data traps:
 How the way data is collected can lead to misleading conclusions (e.g., selection bias, measurement bias, reverse causality)
 
-6. How Statisticians Avoid these Traps
+### How Statisticians Avoid these Traps:
 Approaches like careful study design, controlling for confounders, and applying skepticism to produce more reliable insights
 
 ## Key insight
