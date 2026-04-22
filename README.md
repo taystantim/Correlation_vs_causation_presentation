@@ -41,7 +41,24 @@ Sporious Correlations arise from:
 
 Statistical significance does not guarantee a meaningful relationship.
 
-### Simpson's Paradox:
+#### Correlation With Confounders
+
+Observational studies found that green tea drinkers had better health outcomes.
+
+However, this does not mean green tea causes better health.
+
+<img src="Images/cheese-bedsheets.png" width="500">
+
+The study found that green tea drinkers also had higher socioeconomic statuses, ate healthier diets, had more access to healthcare, exercised more, and were more health-conscious.
+
+Lifestyle factors are confounders that influence both:
+
+- Green tea consumption
+- Health outcomes
+
+The correlation between green tea consumption and health outcomes may reflect underlying differences between groups. From this observational study, we are not able to deduce that drinking green tea lowers the risk of heart disease and increases lifespan.
+
+### Simpson's Paradox
 When a trend within groups reverses or disappears when the data is combined
 
 ### Causal Myths in Big Data:
