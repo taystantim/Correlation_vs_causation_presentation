@@ -101,11 +101,11 @@ During World War II, engineers analyzed returning aircraft to determine where to
 
 Their instinct was to reinforce the areas with the most damage.
 
-<img src="Images/selection_bias1.png" width="500">
+<img src="Images/bias1.png" width="400">
 
 However, this would have been the wrong decision.
 
-<img src="Images/selection_bias2.png" width="500">
+<img src="Images/bias.jpg" width="400">
 
 The data only included planes that successfully returned. Aircraft that were hit in more critical areas, such as the engine or cockpit, did not make it back and were therefore missing from the dataset.
 
