@@ -34,7 +34,7 @@ A spurious correlation occurs when two variables appear related but have no real
 
 This example came from a process called data dredging. Thousands of variables were compared. Some relationships will appear statistically significant purely by chance.
 
-Sporious Correlations arise from:
+Spurious Correlations arise from:
 
 - Random coincidence
 - Confounding Variable
