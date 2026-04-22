@@ -15,9 +15,11 @@ The goal is to highlight the importance of critical thinking, data validation, a
 
 ### Anscombe’s Quartet
 
+All four of the datasets below have the same mean, variance, correlation, and regression line. 
+
 ![Anscombe’s Quartet](Images/anscombes_quartet.png)
 
-Even when datasets share identical statistical summaries—such as the same mean, variance, correlation, and regression line, they can have completely different underlying structures.
+Even when datasets share identical statistical summaries, they can have completely different underlying structures.
 
 As shown in this example, relying only on summary statistics can hide important patterns in the data.
 
@@ -25,12 +27,12 @@ As shown in this example, relying only on summary statistics can hide important 
 
 A spurious correlation occurs when two variables appear related but have no real causal connection.
 
-Example:
+![Correlation between cheese consumption and deaths by becoming tangled in bedsheets](Images/cheese-bedsheets.png)
 
 - Cheese consumption vs deaths from bedsheets
 - Strong correlation (~94%) but no logical relationship
 
-This example came from a process called data dredging. Thousands of variables were compared, some relationships will appear statistically significant purely by chance.
+This example came from a process called data dredging. Thousands of variables were compared. Some relationships will appear statistically significant purely by chance.
 
 Sporious Correlations arise from:
 
