@@ -37,7 +37,7 @@ This example came from a process called data dredging. Thousands of variables we
 Sporious Correlations arise from:
 
 - Random coincidence
-- Confoounding Variable
+- Confounding Variable
 
 Statistical significance does not guarantee a meaningful relationship.
 
