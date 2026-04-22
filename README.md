@@ -11,7 +11,7 @@ Through a series of examples and case studies, this project demonstrates how str
 
 The goal is to highlight the importance of critical thinking, data validation, and understanding how data is generated when drawing conclusions.
 
-## Key Concepts Explored
+## Concepts Explored
 
 ### Anscombe’s Quartet
 
