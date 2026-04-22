@@ -62,11 +62,11 @@ The correlation between green tea consumption and health outcomes may reflect un
 
 Men had higher admission rates than women.
 
-<img src="Images/green_tea_confounding.png" width="500">
+<img src="Images/admission_rates.png" width="500">
 
 But when broken down by department the bias disappears.
 
-<img src="Images/green_tea_confounding.png" width="500">
+<img src="Images/department_breakdown.png" width="500">
 
 Why?
 
