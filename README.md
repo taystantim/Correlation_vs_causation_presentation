@@ -15,7 +15,7 @@ The goal is to highlight the importance of critical thinking, data validation, a
 
 ### Anscombe’s Quartet
 
-![Anscombe’s Quartet](Images/anscombes quartet.png)
+![Anscombe’s Quartet](Images/anscombes_quartet.png)
 
 Even when datasets share identical statistical summaries—such as the same mean, variance, correlation, and regression line, they can have completely different underlying structures.
 
