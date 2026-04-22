@@ -59,7 +59,21 @@ Lifestyle factors are confounders that influence both:
 The correlation between green tea consumption and health outcomes may reflect underlying differences between groups. From this observational study, we are not able to deduce that drinking green tea lowers the risk of heart disease and increases lifespan.
 
 ### Simpson's Paradox
-When a trend within groups reverses or disappears when the data is combined
+
+Men had higher admission rates than women.
+
+<img src="Images/green_tea_confounding.png" width="500">
+
+But when broken down by department the bias disappears.
+
+<img src="Images/green_tea_confounding.png" width="500">
+
+Why?
+
+- Women applied more to competitive programs
+- Men applied more to less competitive programs
+
+This creates a misleading overall trend. Aggregated data can hide important subgroup patterns.
 
 ### Causal Myths in Big Data:
 Common misconceptions such as “more data means more truth” and the belief that machine learning automatically uncovers causation
