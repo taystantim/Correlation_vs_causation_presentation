@@ -5,11 +5,21 @@ This repository contains materials from a guest lecture I delivered for the Depa
 
 ## Overview 
 
-This lecture explores how seemingly strong patterns in data can be misleading even when they appear statistically valid.
+This project explores common pitfalls in data analysis and how misleading insights can arise when correlation is mistaken for causation.
 
-Through real-world examples and intuitive explanations, it highlights common pitfalls in data analysis and demonstrates how statisticians approach these challenges to produce more reliable insights.
+Through a series of examples and case studies, this project demonstrates how strong statistical relationships can appear convincing but fail to represent real-world truth.
 
-### Spurious Correlations:
+The goal is to highlight the importance of critical thinking, data validation, and understanding how data is generated when drawing conclusions.
+
+## Key Concepts Explored
+
+### Anscombe’s Quartet
+
+Even when datasets share identical statistical summaries—such as the same mean, variance, correlation, and regression line, they can have completely different underlying structures.
+
+As shown in this example, relying only on summary statistics can hide important patterns in the data.
+
+### Spurious Correlations
 When variables appear related but have no causal connection
 
 ### Simpson's Paradox:
