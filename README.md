@@ -47,7 +47,7 @@ Observational studies found that green tea drinkers had better health outcomes.
 
 However, this does not mean green tea causes better health.
 
-<img src="Images/cheese-bedsheets.png" width="500">
+<img src="Images/green_tea_confounding.png" width="500">
 
 The study found that green tea drinkers also had higher socioeconomic statuses, ate healthier diets, had more access to healthcare, exercised more, and were more health-conscious.
 
