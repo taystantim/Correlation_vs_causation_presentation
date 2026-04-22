@@ -78,7 +78,7 @@ This creates a misleading overall trend. Aggregated data can hide important subg
 
 Common misconceptions such as “more data means more truth” 
 
-<img src="Images/paradox_of_bigdata.png" width="500">
+<img src="Images/paradox _of_bigdata.png" width="500">
 
 More data increases the chance of finding false patterns. More data does not fix bias, confounding or flawed assumptions or that the model might be making. If your data is biased, more data just makes you more confidently wrong.
 
