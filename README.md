@@ -96,7 +96,7 @@ How the way data is collected can lead to misleading conclusions:
 
 ### Selection Bias Example 
 
-During World War II, engineers analyzed returning aircraft to determine where to reinforce them. They observed that most bullet holes were concentrated on the wings and body of the planes.
+During World War II, engineers analyzed aircraft that returned from missions to determine where to reinforce them. They observed that most bullet holes were concentrated on the wings and body of the planes.
 
 Their instinct was to reinforce the areas with the most damage.
 
