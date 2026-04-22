@@ -11,9 +11,8 @@ Through a series of examples and case studies, this project demonstrates how str
 
 The goal is to highlight the importance of critical thinking, data validation, and understanding how data is generated when drawing conclusions.
 
-## Concepts Explored
 
-### Anscombe’s Quartet
+## Anscombe’s Quartet
 
 All four of the datasets below have the same mean, variance, correlation, and regression line. 
 
@@ -23,7 +22,7 @@ Even when datasets share identical statistical summaries, they can have complete
 
 As shown in this example, relying only on summary statistics can hide important patterns in the data.
 
-### Spurious Correlations
+## Spurious Correlations
 
 A spurious correlation occurs when two variables appear related but have no real causal connection.
 
@@ -58,7 +57,7 @@ Lifestyle factors are confounders that influence both:
 
 The correlation between green tea consumption and health outcomes may reflect underlying differences between groups. From this observational study, we are not able to deduce that drinking green tea lowers the risk of heart disease and increases lifespan.
 
-### Simpson's Paradox
+## Simpson's Paradox
 
 Men had higher admission rates than women in graduate study programs at the University of California at Berkley. 
 
@@ -75,17 +74,17 @@ Why?
 
 This creates a misleading overall trend. Aggregated data can hide important subgroup patterns.
 
-### Causal Myths in Big Data
+## Causal Myths in Big Data
 
 Common misconceptions such as “more data means more truth” 
 
-<img src="Images/department_breakdown.png" width="500">
+<img src="Images/paradox_of_bigdata.png" width="500">
 
 More data increases the chance of finding false patterns. More data does not fix bias, confounding or flawed assumptions or that the model might be making. If your data is biased, more data just makes you more confidently wrong.
 
 Big data can amplify mistakes.
 
-### Observational Data traps
+## Observational Data traps
 
 How the way data is collected can lead to misleading conclusions through:
 
@@ -96,17 +95,17 @@ How the way data is collected can lead to misleading conclusions through:
 - Reverse Causality
 - Practical Data challenges
 
-## Selection Bias Example 
+### Selection Bias Example 
 
 During World War II, engineers analyzed returning aircraft to determine where to reinforce them. They observed that most bullet holes were concentrated on the wings and body of the planes.
 
 Their instinct was to reinforce the areas with the most damage.
 
-<img src="Images/department_breakdown.png" width="500">
+<img src="Images/selection_bias1.png" width="500">
 
 However, this would have been the wrong decision.
 
-<img src="Images/department_breakdown.png" width="500">
+<img src="Images/selection_bias2.png" width="500">
 
 The data only included planes that successfully returned. Aircraft that were hit in more critical areas, such as the engine or cockpit, did not make it back and were therefore missing from the dataset.
 
@@ -115,7 +114,7 @@ The data only included planes that successfully returned. Aircraft that were hit
 
 What’s missing from the data can be just as important as what’s present.
 
-### How Statisticians Avoid these Traps:
+## How Statisticians Avoid these Traps:
 
 Approaches like careful study design, controlling for confounders, using causal thinking, and applying skepticism to produce more reliable insights.
 
