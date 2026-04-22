@@ -75,14 +75,49 @@ Why?
 
 This creates a misleading overall trend. Aggregated data can hide important subgroup patterns.
 
-### Causal Myths in Big Data:
-Common misconceptions such as “more data means more truth” and the belief that machine learning automatically uncovers causation
+### Causal Myths in Big Data
 
-### Observational Data traps:
-How the way data is collected can lead to misleading conclusions (e.g., selection bias, measurement bias, reverse causality)
+Common misconceptions such as “more data means more truth” 
+
+<img src="Images/department_breakdown.png" width="500">
+
+More data increases the chance of finding false patterns. More data does not fix bias, confounding or flawed assumptions or that the model might be making. If your data is biased, more data just makes you more confidently wrong.
+
+Big data can amplify mistakes.
+
+### Observational Data traps
+
+How the way data is collected can lead to misleading conclusions through:
+
+- Confounding Variable
+- Selection Bias
+- Measurement Bias
+- Research Bias 
+- Reverse Causality
+- Practical Data challenges
+
+## Selection Bias Example 
+
+During World War II, engineers analyzed returning aircraft to determine where to reinforce them. They observed that most bullet holes were concentrated on the wings and body of the planes.
+
+Their instinct was to reinforce the areas with the most damage.
+
+<img src="Images/department_breakdown.png" width="500">
+
+However, this would have been the wrong decision.
+
+<img src="Images/department_breakdown.png" width="500">
+
+The data only included planes that successfully returned. Aircraft that were hit in more critical areas, such as the engine or cockpit, did not make it back and were therefore missing from the dataset.
+
+- Areas with fewer bullet holes were actually the most vulnerable
+- The correct conclusion was to reinforce the areas with the least visible damage.
+
+What’s missing from the data can be just as important as what’s present.
 
 ### How Statisticians Avoid these Traps:
-Approaches like careful study design, controlling for confounders, and applying skepticism to produce more reliable insights
+
+Approaches like careful study design, controlling for confounders, using causal thinking, and applying skepticism to produce more reliable insights.
 
 ## Key insight
 
