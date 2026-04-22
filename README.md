@@ -11,7 +11,6 @@ Through a series of examples and case studies, this project demonstrates how str
 
 The goal is to highlight the importance of critical thinking, data validation, and understanding how data is generated when drawing conclusions.
 
-
 ## Anscombe’s Quartet
 
 All four of the datasets below have the same mean, variance, correlation, and regression line. 
@@ -86,7 +85,7 @@ Big data can amplify mistakes.
 
 ## Observational Data traps
 
-How the way data is collected can lead to misleading conclusions through:
+How the way data is collected can lead to misleading conclusions:
 
 - Confounding Variable
 - Selection Bias
@@ -114,7 +113,7 @@ The data only included planes that successfully returned. Aircraft that were hit
 
 What’s missing from the data can be just as important as what’s present.
 
-## How Statisticians Avoid these Traps:
+## How Statisticians Avoid these Traps
 
 Approaches like careful study design, controlling for confounders, using causal thinking, and applying skepticism to produce more reliable insights.
 
