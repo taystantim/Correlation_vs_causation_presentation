@@ -22,7 +22,22 @@ Even when datasets share identical statistical summaries—such as the same mean
 As shown in this example, relying only on summary statistics can hide important patterns in the data.
 
 ### Spurious Correlations
-When variables appear related but have no causal connection
+
+A spurious correlation occurs when two variables appear related but have no real causal connection.
+
+Example:
+
+- Cheese consumption vs deaths from bedsheets
+- Strong correlation (~94%) but no logical relationship
+
+This example came from a process called data dredging. Thousands of variables were compared, some relationships will appear statistically significant purely by chance.
+
+Sporious Correlations arise from:
+
+- Random coincidence
+- Confoounding Variable
+
+Statistical significance does not guarantee a meaningful relationship.
 
 ### Simpson's Paradox:
 When a trend within groups reverses or disappears when the data is combined
