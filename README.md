@@ -17,7 +17,7 @@ The goal is to highlight the importance of critical thinking, data validation, a
 
 All four of the datasets below have the same mean, variance, correlation, and regression line. 
 
-<img src="Images/cheese-bedsheets.png" width="500">
+<img src="Images/anscombes_quartet.png" width="500">
 
 Even when datasets share identical statistical summaries, they can have completely different underlying structures.
 
@@ -27,7 +27,7 @@ As shown in this example, relying only on summary statistics can hide important 
 
 A spurious correlation occurs when two variables appear related but have no real causal connection.
 
-<img src="Images/anscombes_quartet.png" width="500">
+<img src="Images/cheese-bedsheets.png" width="500">
 
 - Cheese consumption vs deaths from bedsheets
 - Strong correlation (~94%) but no logical relationship
