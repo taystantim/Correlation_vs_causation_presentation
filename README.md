@@ -17,7 +17,7 @@ The goal is to highlight the importance of critical thinking, data validation, a
 
 All four of the datasets below have the same mean, variance, correlation, and regression line. 
 
-![Anscombe’s Quartet](Images/anscombes_quartet.png)
+<img src="images/anscombes_quartet.png" width="500">
 
 Even when datasets share identical statistical summaries, they can have completely different underlying structures.
 
