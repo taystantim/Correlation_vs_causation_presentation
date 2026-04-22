@@ -60,7 +60,7 @@ The correlation between green tea consumption and health outcomes may reflect un
 
 ### Simpson's Paradox
 
-Men had higher admission rates than women.
+Men had higher admission rates than women in graduate study programs at the University of California at Berkley. 
 
 <img src="Images/admission_rates.png" width="500">
 
