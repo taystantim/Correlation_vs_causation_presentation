@@ -106,7 +106,7 @@ However, this would have been the wrong decision.
 
 <img src="Images/bias.jpg" width="400">
 
-The data only included planes that successfully returned. Aircraft that were hit in more critical areas, such as the engine or cockpit, did not make it back and were therefore missing from the dataset.
+The data only included planes that successfully returned. Aircrafts that were hit in more critical areas, such as the engine or cockpit, did not make it back and were missing from the dataset.
 
 - Areas with fewer bullet holes were actually the most vulnerable
 - The correct conclusion was to reinforce the areas with the least visible damage.
