@@ -41,7 +41,7 @@ Statistical significance does not guarantee a meaningful relationship.
 
 ### Correlation With Confounders
 
-Observational studies found that green tea drinkers had lower mortality rates & reduced heart disease risk.
+An observational study found that green tea drinkers had lower mortality rates & reduced heart disease risk.
 
 However, this does not mean green tea causes better health.
 
