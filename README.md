@@ -35,11 +35,11 @@ This example came from a process called data dredging. Thousands of variables we
 Spurious Correlations arise from:
 
 - Random coincidence
-- Confounding Variable
+- Confounding variable
 
 Statistical significance does not guarantee a meaningful relationship.
 
-#### Correlation With Confounders
+### Correlation With Confounders
 
 Observational studies found that green tea drinkers had lower mortality rates & reduced heart disease risk.
 
